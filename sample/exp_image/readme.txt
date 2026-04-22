@@ -1,0 +1,2 @@
+
+This folder contains the images used in the experiment and their corresponding saliency maps. The images are located in the "img" folder, while the saliency maps are in the "map" folder. Each image is named using the format "alphaA_idB.png," where A represents the naturalness level, and B is the image identification number.
